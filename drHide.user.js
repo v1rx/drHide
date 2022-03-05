@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        DocumentingReality Hide Thanks/Fuck
 // @namespace   https://www.documentingreality.com/
+// @author      Z
 // @include     https://www.documentingreality.com/forum/*
 // @version     1
 // @grant       none
